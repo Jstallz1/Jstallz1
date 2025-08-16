@@ -16,6 +16,6 @@
 [<img align="left" alt="JaKar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JaKar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/jakartv
-[instagram]: https://www.instagram.com/Josh
+[youtube]: https://www.youtube.com/c/JaKarS)
+[instagram]: https://www.instagram.com/jakarofficial_
 [linkedin]: https://linkedin.com/in/Jakarstallings
