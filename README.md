@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jstallz1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jstallz1/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/jstallz1/osTicket-Post-Installation-Configuration)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jstallz1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jstallz1/azure-network-protocols)
